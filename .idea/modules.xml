@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_BT_ReadFileCSV.iml" filepath="$PROJECT_DIR$/.idea/Java_BT_ReadFileCSV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Read File/Read File.iml" filepath="$PROJECT_DIR$/Read File/Read File.iml" />
+    </modules>
+  </component>
+</project>
